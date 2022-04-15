@@ -1,7 +1,7 @@
 # Welcome to my github!
 # Good luck to you!
 
-Name: Yue Fengguang
+Name: YUE Gaofeng
 
 Ethnicity: Han
 
