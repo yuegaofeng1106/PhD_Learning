@@ -1,1 +1,2 @@
-# PHD_Learning
+# Welcome to my github!
+# Good luck to you!
