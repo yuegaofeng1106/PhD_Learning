@@ -7,7 +7,7 @@ Ethnicity: Han
 
 Email: 643375731@qq.com
 
-Education:PhD student at Xi'an Jiaotong University
+Education: a PhD student at Xi'an Jiaotong University
  
 Tel: 15929993293
 
