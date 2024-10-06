@@ -1,0 +1,3 @@
+首先激活pysyft环境 conda activate pysyft
+vscode怎么设置python解释器，选择pysyft的那个解释器
+文件中不能带有python指定路径，带了则必须统一
